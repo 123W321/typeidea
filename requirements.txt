@@ -1,0 +1,8 @@
+此处放置项目的依赖项
+例如本项目的：Django~=3.0.1
+
+新人可以通过pip install -r requirement.txt来安装项目所有的依赖
+组织语言为：
+-i http://pypi.doubanio.com/simple/
+Django~=3.0.1
+-e .#表示在当前的setup.py中查找依赖项
